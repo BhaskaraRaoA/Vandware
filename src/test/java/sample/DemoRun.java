@@ -12,6 +12,8 @@ public class DemoRun {
 		
 		
 		System.out.println(" chances the requirements ");
+		
+		System.out.println("hello aprl 14 ");
 	}
 	
 public void bhaskarAnnepu()
@@ -26,5 +28,13 @@ public void bhaskarAnnepu()
 	
 	System.out.println(" ==== hello bhaskar today have a greate day ==== ");
     System.out.println("bye bye");
+    
+    
+    
+    System.out.println("hello bhaskar good morning");
+    
+    
+    
+    
 }
 }
